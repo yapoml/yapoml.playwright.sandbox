@@ -1,0 +1,6 @@
+url: /search?q={query}
+
+repositories:
+  by: xpath //div[@data-testid="results-list"]/div
+
+  name: h3 a

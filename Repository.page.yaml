@@ -1,0 +1,1 @@
+star: xpath //a[span[@id='repo-stars-counter-star']]
